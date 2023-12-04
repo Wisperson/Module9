@@ -8,7 +8,7 @@ namespace Module9
 {
     public class HomeWork
     {
-        static public void StartHW()
+        static public void Start()
         {
             Random random = new Random();
             List<Employee> employees = new List<Employee>();

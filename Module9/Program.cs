@@ -13,7 +13,9 @@ namespace Module9
     {
         static void Main(string[] args)
         {
-            HomeWork.StartHW();
+            HomeWork.Start();
+            Console.WriteLine();
+            Practice.Start();
             Console.ReadKey();
         }
     }
